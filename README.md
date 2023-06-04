@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm IMAD</h1>
 <h3 align="center">A software enthusiast</h3>
 
-- 🌱 I’m currently learning **Compiler Design**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 📫 How to reach me **imadbinsad1@gmail.com**
 
